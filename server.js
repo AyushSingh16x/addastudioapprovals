@@ -7,7 +7,7 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const app = express();
-const PORT = 3000;
+const PORT = 8080;
 
 const TELEGRAM_BOT_TOKEN = '8115048642:AAGYjFR4LHgmJWjUoNZJ77o452Mr1IoSE1s';
 const TELEGRAM_CHAT_ID = '4966626762';
